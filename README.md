@@ -1,8 +1,8 @@
-## Oiii eu sou o Josué Dantas, estudante de Sistemas de Informação - 6/8!
+## Oi eu sou o Josué Dantas, estudante de Sistemas de Informação - 6/8!
 
-<div>
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=wDarkRx&show_icons=true&theme=radical"/>
-</div>
+<div style="margin-bottom:100px">
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=wDarkRx&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
