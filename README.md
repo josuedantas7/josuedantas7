@@ -1,4 +1,4 @@
-## Oi eu sou o Josué Dantas, estudo de Sistemas de Informação - 6/8!
+## Oi eu sou o Josué Dantas, estudante de Sistemas de Informação - 6/8!
 
 <div style="margin-bottom:100px">
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wDarkRx&show_icons=true&theme=radical&layout=compact" />
