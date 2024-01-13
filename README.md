@@ -1,3 +1,5 @@
+# Olá pessoal 👋 &nbsp;&nbsp;<img  src="https://komarev.com/ghpvc/?username=iDimaBR" alt="iDimaBR" />
+
 ## Oi eu sou o Josué Dantas, estudante de Sistemas de Informação - 7/8!
 
 <div style="margin-bottom:100px">
