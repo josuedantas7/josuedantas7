@@ -1,8 +1,7 @@
 ## <img  src="https://komarev.com/ghpvc/?username=josuedantas7" alt="iDimaBR" />
 
 # Olá, Seja bem vindo! Sou o Josué Dantas.
-# Desenvolvedor Front-end | HTML, CSS, Javascript, React js, Next js, React Native, Typescript
-
+<p>Desenvolvedor Front-end | HTML, CSS, Javascript, React js, Next js, React Native, Typescript</p>
 <div style="margin-bottom:100px">
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuedantas7&show_icons=true&theme=radical&layout=compact" />
  </div>
