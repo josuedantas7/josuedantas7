@@ -14,13 +14,13 @@
   <img align="center" alt="Josue-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Josue-Javascript" height="30" width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" height="30" width="120" alt="Josue-Material-ui" src="https://img.shields.io/badge/MATERIAL%20UI-000000?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img align="center" height="30" width="120"  alt="Josue-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img align="center" height="30" width="120"  alt="Josue-Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </div>
 
 <div style="display: inline_block"><br>
   <p>Estudando</p>
   <img align="center" height="30" width="120"  alt="Josue-MongoDB"  alt="node" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img align="center" height="30" width="120"  alt="Josue-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" height="30" width="120"  alt="Josue-Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
 </div>
   
   ##
