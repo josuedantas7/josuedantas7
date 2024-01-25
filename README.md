@@ -11,10 +11,10 @@
   <img align="center" alt="Josue-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Josue-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Josue-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Josue-Next" height="30" width="100" src="https://img.shields.io/badge/NEXT-black?style=flat-square&logo=next.js&logoColor=white">
+  <img align="center" alt="Josue-Next" height="30" width="100" src="https://img.shields.io/badge/-Next.js-%23000?style=for-the-badge&logo=next.js">
   <img align="center" alt="Josue-Javascript" height="30" width="120" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" height="30" width="120"  alt="Josue-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img align="center" alt="Josue-TailwindCSS" height="30" width="120" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+  <img align="center" alt="Josue-TailwindCSS" height="30" width="120" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img align="center" alt="Josue-React-native" height="30" width="130" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" height="30" width="120" alt="Josue-Material-ui" src="https://img.shields.io/badge/MATERIAL%20UI-000000?style=for-the-badge&logo=mui&logoColor=white"/>
   <img align="center" height="30" width="120"  alt="Josue-Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
