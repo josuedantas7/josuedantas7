@@ -1,5 +1,3 @@
-## <img  src="https://komarev.com/ghpvc/?username=josuedantas7" alt="Josue Dantas" />
-
 # Olá, Seja bem vindo! Sou o Josué Dantas.
 <p>Desenvolvedor Front-end | HTML, CSS, Javascript, Typescript, React js, Next js, React Native</p>
 <div style="margin-bottom:100px">
