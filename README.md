@@ -1,7 +1,8 @@
 # Olá, Seja bem vindo! Sou o Josué Dantas.
 <p>Desenvolvedor Front-end | HTML, CSS, Javascript, Typescript, React js, Next js, React Native</p>
-<div style="margin-bottom:100px">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuedantas7&show_icons=true&theme=radical&layout=compact" />
+<div>
+  <img height=200px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuedantas7&show_icons=true&theme=dracula&layout=compact" />
+  <img height=200px align="center" src="https://streak-stats.demolab.com/?user=josuedantas7&theme=dracula" />
 </div>
 
 <div style="display: inline_block"><br>
