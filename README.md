@@ -5,9 +5,10 @@
   <img width=420px height=200px src="https://streak-stats.demolab.com/?user=josuedantas7&theme=dracula" />
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block;"><br>
   <p>Tecnologias</p>
   <img align="center" alt="Josue-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Josue-WEBPACK" height="30" width="100" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
   <img align="center" alt="Josue-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Josue-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Josue-Next" height="30" width="100" src="https://img.shields.io/badge/-Next.js-%23000?style=for-the-badge&logo=next.js">
@@ -20,6 +21,12 @@
   <img align="center" height="30" width="120"  alt="Josue-Prisma" alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
   <img align="center" height="30" width="120" alt="Josue-Material-ui" src="https://img.shields.io/badge/MATERIAL%20UI-000000?style=for-the-badge&logo=mui&logoColor=white"/>
   <img align="center" height="30" width="120" alt="Josue-Shadcn" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+  <img align="center" height="30" width="120" alt="Josue-StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img align="center" height="30" width="80" alt="Josue-Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img align="center" height="30" width="120" alt="Josue-Lerna" src="https://img.shields.io/badge/Lerna-3E3E3E?style=for-the-badge&logo=lerna&logoColor=white"/>
+  <img align="center" height="30" width="120" alt="Josue-ReduxSaga" src="https://img.shields.io/badge/Redux%20saga-86D46B?style=for-the-badge&logo=redux%20saga&logoColor=999999"/>
+  <img align="center" height="30" width="120" alt="Josue-StoryBook" src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>
+  
 </div>
   
   ##
