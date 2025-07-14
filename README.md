@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)! 👋 Sou Josué Dantas.
 
-**Software Engineer | React & Next.js | AWS Cloud**
+**Software Engineer | React & Next.js | AWS**
 
 ---
 
